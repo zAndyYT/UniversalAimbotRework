@@ -268,7 +268,7 @@ end
 
 -- ui creating & handling
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NatsuDevs/Linoria-Rewrite-Modded-/main/Lib.lua"))()
-Library:SetWatermark("Fixed By Pepsi")
+
 
 local Window = Library:CreateWindow("Universal Silent Aim")
 local GeneralTab = Window:AddTab("General")
